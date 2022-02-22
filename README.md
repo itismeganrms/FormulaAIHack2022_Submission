@@ -1,1 +1,1 @@
-# FormulaAIHackathonSubmissions
+# FormulaAIHackathonSubmission
